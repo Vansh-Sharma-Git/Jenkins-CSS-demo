@@ -13,6 +13,7 @@ Author: 	ThemeSINE
 Website: 	https://www.themesine.com/
 
 
+
 Changelog:
 -----------------------
 Version 1.0 21-05-2018
